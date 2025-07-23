@@ -11,7 +11,7 @@ project:
 
 website:
   title: "Consortium for Data Analytics in Risk"
-  site-url: "https://berkeley-econ.github.io/cdar-site
+  site-url: "https://berkeley-econ.github.io/cdar-site"
   description: "Leading research at the intersection of financial economics and data science"
   
   navbar:
