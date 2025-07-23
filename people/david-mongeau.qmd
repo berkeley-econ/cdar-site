@@ -1,0 +1,8 @@
+---
+title: "David Mongeau"
+categories: [Alumni]
+description: "Board Member (2018-2021)"
+image: "/images/people/david-mongeau.png"
+---
+
+David Mongeau served as a Board Member of CDAR from 2018 to 2021.

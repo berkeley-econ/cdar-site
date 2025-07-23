@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+
+## Publications
+
+| Title | Authors | Year |
+|-------|---------|------|
+| Understanding the Long-Only Minimum Variance Portfolio | Alec Kercheval; Ololade Sowunmi; Nick Gunther | 2025 |
+| Portfolio optimisation via strategy-specific eigenvector shrinkage | Lisa Goldberg; Hubeyb Gurdogan; Alec Kercheval | 2025 |
+| Long-History PCA in a Dynamic Factor Model with Weak Loadings | Robert Anderson; Baeho Kim; Dean Ryu | 2025 |
+| Market-Maker Short Selling: A Necessary Evil? | Yerim Kim; Kyong Shik Eom; Baeho Kim | 2025 |
+| Portfolio Selection Revisited in memory of Harry M. Markowitz | Alex Shkolnik; Alec Kercheval; Hubeyb Gurdogan; Lisa Goldberg; Haim Bar | 2024 |
+| Ownership of ESG Characteristics | Mark Bateman; Lisa Goldberg | 2023 |
+| A Resampling Approach for Causal Inference on Novel Two-Point Time-Series with Application to Identify Risk Factors for Type-2 Diabetes and Cardiovascular Disease | Xiaowu Dai; Saad Mouti; Marjorie Lima Do Vale; Sumantra Ray; Jeffrey Bohn; Lisa Goldberg | 2023 |
+| James-Stein for the Leading Eigenvector | Lisa Goldberg; Alec Kercheval | 2023 |
+| Is Index Concentration an Inevitable Consequence of Market-Capitalization Weighting? | Lisa Goldberg; Ananth Madhavan; Harrison Selwitz; Alex Shkolnik | 2022 |
+| Sustainable investing and the cross-section of returns and maximum drawdown | Lisa Goldberg; Saad Mouti | 2022 |
+| 2022-01: CENTRAL BANK DIGITAL CURRENCIES (CBDCs) The coming of national e-currencies | Jeffrey Bohn; Gilles Papadopoulos; Jurg Unger | 2022 |
+| 2022-02: A propagation model to quantify business interruption losses in supply chain networks | Hubeyb Gurdogan; Nariman Maddah; Reyhaneh Mohammadi; Elena Pesce; Alicia Montoya; Jeffrey Bohn; Katherine Dalis | 2022 |
+| Multiple Anchor Point Shrinkage for the Sample Covariance Matrix | Hubeyb Gurdogan; Alec Kercheval | 2022 |
+| On Existence Of Berk-Nash Equilibria In Misspecified Markov Decision Processes With Infinite Spaces | Robert Anderson; Haosui Duanmu; Aniruddha Ghosh; M. Ali Khan | 2022 |
+| Sustainable Investing From a Practitioner's Viewpoint: What's in Your ESG Portfolio? | Jeffrey Bohn; Lisa Goldberg; Simge Ulucam | 2022 |
+| The Dispersion Bias | Lisa Goldberg; Alex Papanicolaou; Alex Shkolnik | 2022 |
+| James-Stein estimation of the first principal component | Alex Shkolnik | 2021 |
+| Collateralized Networks | Samim Ghamami; Paul Glasserman; Peyton Young | 2021 |
+| Tax-Rate Arbitrage: Realization of Long-Term Gains to Enable Short-Term Loss Harvesting | Lisa Goldberg; Taotao Cai; Pete Hand | 2021 |
+| The Implied Futures Financing Rate | Nick Gunther; Robert Anderson; Lisa Goldberg; Alex Papanicolaou | 2021 |
+| High Dimensional Decision Making, Upper and Lower Bounds | Farzad Pourbabaee | 2021 |
+| Submodular Risk Allocation | Samim Ghamami; Paul Glasserman | 2019 |
+| Deep Learning for Mortgage Risk | Justin Sirignano; Apaar Sadhwani; Kay Giesecke | 2018 |
+| Do the Golden State Warriors Have Hot Hands? | Lisa Goldberg | 2017 |
+| Derivatives Pricing under Bilateral Counterparty Risk | Peter Carr; Samim Ghamami | 2017 |
+| Does OTC Derivatives Reform Incentivize Central Clearing? | Samim Ghamami; Paul Glasserman | 2017 |
+
+::: {.pagination}
+1 of 2 | [Next →](research-page2.qmd) | [Last →](research-page2.qmd)
+:::

@@ -1,0 +1,20 @@
+---
+title: "CRMR People"
+subtitle: "Center for Risk Management Research"
+listing:  
+  contents: "../people"
+  type: grid
+  grid-columns: 3
+  sort: "title"
+  fields: [image, title, description, categories]
+  categories: true
+  filter-ui: true
+  sort-ui: true
+  page-size: 50
+  include:
+    categories: ["CRMR"]
+---
+
+The Center for Risk Management Research (CRMR) brings together faculty, researchers, and industry professionals to advance understanding of financial risk through cutting-edge research and collaboration.
+
+Our team includes co-directors, affiliated researchers, postdoctoral fellows, and administrative staff who contribute to CRMR's mission of developing innovative approaches to risk modeling, financial analytics, and systemic risk assessment.

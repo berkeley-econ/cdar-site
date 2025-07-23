@@ -1,0 +1,8 @@
+---
+title: "Anders Christjansen"
+categories: [Member]
+description: "Member"
+image: "/images/people/anders-christjansen.png"
+---
+
+Anders Christjansen is a Member of CDAR.

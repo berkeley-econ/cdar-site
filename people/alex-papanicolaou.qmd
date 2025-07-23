@@ -1,0 +1,8 @@
+---
+title: "Alex Papanicolaou"
+categories: [Alumni]
+description: "Postdoc (2016-2018)"
+image: "/images/people/alex-papanicolaou.png"
+---
+
+Alex Papanicolaou was a Postdoctoral Researcher at CDAR from 2016 to 2018.

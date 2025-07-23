@@ -1,0 +1,8 @@
+---
+title: "Kay Giesecke"
+categories: [Board Member]
+description: "Board Member"
+image: "/images/people/kay-giesecke.png"
+---
+
+Kay Giesecke serves as a Board Member of CDAR, contributing expertise in financial modeling and risk management.

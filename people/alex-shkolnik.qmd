@@ -1,0 +1,8 @@
+---
+title: "Alex Shkolnik"
+categories: [Affiliated Researcher]
+description: "Affiliated Researcher"
+image: "/images/people/alex-shkolnik.png"
+---
+
+Alex Shkolnik is an Affiliated Researcher at CDAR, contributing research in mathematical finance and statistical methods.

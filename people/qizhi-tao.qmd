@@ -1,0 +1,8 @@
+---
+title: "Qizhi Tao"
+categories: [Alumni]
+description: "Member (2017-2021)"
+image: "/images/people/qizhi-tao.png"
+---
+
+Qizhi Tao was a Member of CDAR from 2017 to 2021, currently a Professor and Director of the BSc in Finance Program at Southwestern University of Finance and Economics.

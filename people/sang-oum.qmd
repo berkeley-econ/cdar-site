@@ -1,0 +1,12 @@
+---
+title: "Sang Oum"
+image: "/images/people/sang-oum.png"
+categories: ["Chief Administrative Officer", "CAO", "CDAR", "CRMR"]
+description: "Chief Administrative Officer at CDAR. Operations manager with extensive experience in UC Berkeley administration, payroll, and event planning."
+---
+
+## Bio
+
+Sang earned a B.S. in Managerial Economics from UC Davis in 2001. She started her career in the Information Services and Technology department at UC Berkeley. She then moved into Central payroll and later to Civil and Environmental Engineering.
+
+She was an operations manager for three centers on campus before moving into her role at CDAR as a chief administrative officer. She has earned three staff awards and a certificate in Event Planning.

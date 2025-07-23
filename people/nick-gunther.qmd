@@ -1,0 +1,8 @@
+---
+title: "Nick Gunther"
+categories: ["Affiliated Researcher", "CDAR", "CRMR"]
+description: "Affiliated Researcher"
+image: "/images/people/nick-gunther.png"
+---
+
+Nick Gunther is an Affiliated Researcher at CDAR, specializing in quantitative finance and portfolio theory.

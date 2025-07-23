@@ -1,0 +1,8 @@
+---
+title: "John Arabadjis"
+categories: [Alumni]
+description: "Member (2016-2019)"
+image: "/images/people/john-arabadjis.png"
+---
+
+John Arabadjis was a Member of CDAR from 2016 to 2019, currently Head of Macro Strategy Products & Analytics at Bank of New York Mellon.

@@ -1,0 +1,8 @@
+---
+title: "Alec Kercheval"
+categories: [Affiliated Researcher, CDAR]
+description: "Affiliated Researcher"
+image: "/images/people/alec-kercheval.png"
+---
+
+Alec Kercheval is an Affiliated Researcher at CDAR, specializing in quantitative finance and portfolio optimization.

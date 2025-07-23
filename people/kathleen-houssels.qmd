@@ -1,0 +1,8 @@
+---
+title: "Kathleen Houssels"
+categories: [Board Member]
+description: "Board Member"
+image: "/images/people/kathleen-houssels.png"
+---
+
+Kathleen Houssels serves as a Board Member of CDAR.

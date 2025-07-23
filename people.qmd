@@ -1,0 +1,16 @@
+---
+title: "People"
+listing:
+  contents: "people"
+  sort: "title"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 50
+  grid-columns: 3
+  grid-item-border: false
+  fields: [image, title, description, categories]
+  include:
+    categories: ["CDAR"]
+---

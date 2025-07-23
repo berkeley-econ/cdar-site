@@ -1,0 +1,8 @@
+---
+title: "Robert Anderson"
+categories: ["Co-Director", "CDAR", "CRMR"]
+description: "Professor, Department of Economics and Department of Mathematics, UC Berkeley"
+image: "/images/people/robert-anderson.png"
+---
+
+Robert Anderson serves as Co-Director of CDAR and is a Professor in both the Department of Economics and Department of Mathematics at UC Berkeley. His research spans mathematical economics, financial theory, and risk analytics.

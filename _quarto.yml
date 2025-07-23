@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "people/*.qmd" 
+    - "crmr/*.qmd"
+    - "publications/*.qmd"
+    - "seminars/*.qmd"
+    - "symposium/*.qmd"
+
+website:
+  title: "Consortium for Data Analytics in Risk"
+  site-url: "https://cdar.berkeley.edu"
+  description: "Leading research at the intersection of financial economics and data science"
+  
+  navbar:
+    logo: "images/cdar_logo.png"
+    title: "CDAR"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Seminars"
+        href: seminars.qmd
+      - text: "Symposium"
+        href: symposium.qmd
+      - text: "Partners"
+        href: partners.qmd
+      - text: "CRMR"
+        href: crmr.qmd
+    right:
+      - icon: "envelope"
+        href: "mailto:info@cdar.berkeley.edu"
+        
+  page-footer:
+    left: |
+      [UC Berkeley](https://www.berkeley.edu/) | 
+      [Home](index.qmd) | 
+      [Contact Us](contact.qmd)
+    center: |
+      [Powered by Open Berkeley](https://open.berkeley.edu/) | 
+      [Accessibility Statement](https://dap.berkeley.edu/get-help/report-web-accessibility-issue) | 
+      [Nondiscrimination Policy Statement](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement) | 
+      [Privacy Statement](https://open.berkeley.edu/privacy-statement)
+    right: |
+      Copyright © 2025 UC Regents; all rights reserved
+
+format:
+  html:
+    theme: 
+      - flatly
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+
+
+

@@ -1,0 +1,12 @@
+---
+title: "Baeho Kim"
+image: "/images/people/baeho-kim.png"
+categories: ["Affiliated Researcher", "CRMR Affiliates", "CRMR"]
+description: "Professor of Finance at Korea University Business School (KUBS). Visiting Associate Researcher at CDAR. Research interests include measuring and managing financial risk with quantitative modeling and computational techniques."
+---
+
+## Bio
+
+Baeho Kim is a Professor of Finance at Korea University Business School (KUBS). He received his Ph.D. in the department of Management Science and Engineering (MS&E) and his master's degree in the Financial Mathematics Program at Stanford University.
+
+He was a Visiting Associate Researcher of the Consortium for Data Analytics in Risk (CDAR) at UC Berkeley, and a Visiting Senior Research Fellow of Risk Management Institute (RMI) at the National University of Singapore. His research interests include measuring and managing financial risk with quantitative modeling and computational techniques.

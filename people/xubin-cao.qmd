@@ -1,0 +1,8 @@
+---
+title: "Xubin Cao"
+categories: [Alumni]
+description: "Member (2017-2021)"
+image: "/images/people/xubin-cao.png"
+---
+
+Xubin Cao was a Member of CDAR from 2017 to 2021, currently Director of the Economic Management Experimental Teaching Center at Southwestern University of Finance and Economics.

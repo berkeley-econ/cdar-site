@@ -1,0 +1,7 @@
+---
+title: "Hubeyb Gurdogan"
+categories: [Postdoc]
+description: "Postdoc"
+---
+
+Hubeyb Gurdogan is a Postdoctoral Researcher at CDAR, focusing on risk management and quantitative finance.

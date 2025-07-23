@@ -1,0 +1,36 @@
+---
+title: "CRMR"
+---
+
+## Center for Risk Management Research
+
+The Center for Risk Management Research (CRMR) is an integral part of CDAR's mission to advance research in financial economics and data science. CRMR focuses on developing innovative approaches to understanding and managing financial risks in an increasingly complex and data-driven world.
+
+### Research Focus Areas
+
+- **Financial Risk Assessment** - Developing new methodologies for quantifying and managing financial risks
+- **Data-Driven Risk Models** - Creating sophisticated models that leverage big data and machine learning
+- **Regulatory Risk** - Understanding the implications of regulatory changes on financial institutions
+- **Systemic Risk** - Analyzing interconnected risks across financial systems
+- **Operational Risk** - Examining risks arising from internal processes, systems, and human factors
+
+### CRMR People
+
+Our CRMR team includes co-directors, affiliated researchers, postdoctoral fellows, and administrative staff who contribute to CRMR's mission.
+
+[**View CRMR People Directory →**](crmr/crmr-people.qmd)
+
+CRMR affiliates are researchers and practitioners who contribute specialized expertise in risk management:
+
+- Leading academics from top universities
+- Industry professionals from major financial institutions
+- Regulatory experts and policy makers
+- Data scientists and quantitative analysts
+
+### Collaborative Research
+
+CRMR facilitates collaborative research projects that bring together academic researchers and industry professionals to address real-world risk management challenges. Our work informs both academic understanding and practical risk management strategies.
+
+---
+
+*For more information about CRMR initiatives or to explore collaboration opportunities, please contact us.*

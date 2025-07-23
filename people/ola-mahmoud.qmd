@@ -1,0 +1,8 @@
+---
+title: "Ola Mahmoud"
+categories: ["Affiliated Researcher", "CDAR", "CRMR"]
+description: "Affiliated Researcher"
+image: "/images/people/ola-mahmoud.png"
+---
+
+Ola Mahmoud is an Affiliated Researcher at CDAR and Assistant Professor of Corporate Finance at the University of Basel in Switzerland.

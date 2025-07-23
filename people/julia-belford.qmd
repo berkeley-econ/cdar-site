@@ -1,0 +1,8 @@
+---
+title: "Julia Belford"
+categories: ["Affiliated Researcher", "CDAR"]
+description: "Affiliated Researcher"
+image: "/images/people/julia-belford.png"
+---
+
+Julia Belford is an Affiliated Researcher at CDAR.

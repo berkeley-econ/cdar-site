@@ -1,0 +1,8 @@
+---
+title: "Kyong Shik Eom"
+categories: [CRMR Affiliate]
+description: "Affiliated Researcher"
+image: "/images/people/kyong-shik-eom.png"
+---
+
+Kyong Shik Eom is an Affiliated Researcher at CRMR, specializing in market microstructure and stability.
