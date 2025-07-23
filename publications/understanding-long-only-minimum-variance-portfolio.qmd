@@ -1,0 +1,25 @@
+---
+title: "Understanding the Long-Only Minimum Variance Portfolio"
+authors: ["Alec Kercheval", "Ololade Sowunmi", "Nicholas Gunther"]
+year: 2025
+---
+
+## Abstract
+
+This research paper explores the theoretical foundations and practical applications of long-only minimum variance portfolios in modern portfolio theory...
+
+*[This is a placeholder for the full publication content. The actual paper content would be added here.]*
+
+## Authors
+
+- **Alec Kercheval** - Affiliated Researcher, CDAR
+- **Ololade Sowunmi** - Researcher
+- **Nicholas Gunther** - Affiliated Researcher, CDAR
+
+## Citation
+
+Kercheval, A., Sowunmi, O., & Gunther, N. (2025). Understanding the Long-Only Minimum Variance Portfolio. *[Journal/Publication Details]*
+
+---
+
+[← Back to Research](../research.qmd)
