@@ -1,8 +1,0 @@
----
-title: "Jingmei Zhao"
-categories: [Alumni]
-description: "Board Member (2017-2021)"
-image: "/images/people/jingmei-zhao.png"
----
-
-Jingmei Zhao served as a Board Member of CDAR from 2017 to 2021.

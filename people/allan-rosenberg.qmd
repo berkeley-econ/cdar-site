@@ -1,8 +1,0 @@
----
-title: "Allan Rosenberg"
-categories: [Alumni]
-description: "Affiliated Researcher (2018-2021)"
-image: "/images/people/allan-rosenberg.png"
----
-
-Allan Rosenberg was an Affiliated Researcher at CDAR from 2018 to 2021, specializing in financial risk modeling and software development.

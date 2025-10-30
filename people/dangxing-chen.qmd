@@ -1,8 +1,0 @@
----
-title: "Dangxing Chen"
-categories: [Affiliated Researcher]
-description: "Affiliated Researcher"
-image: "/images/people/dangxing-chen.png"
----
-
-Dangxing Chen is an Affiliated Researcher at CDAR, focusing on mathematical modeling and numerical methods in finance.

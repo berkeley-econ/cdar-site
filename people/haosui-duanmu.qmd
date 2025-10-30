@@ -1,8 +1,0 @@
----
-title: "Haosui Duanmu"
-categories: ["Postdoc", "CRMR Postdocs", "CRMR"]
-description: "Postdoc at CRMR working on statistical decision theory and general equilibrium theory."
-image: "/images/people/haosui-duanmu.png"
----
-
-Haosui Duanmu is a Postdoctoral Researcher at CRMR, working on statistical decision theory and general equilibrium theory.

@@ -1,8 +1,0 @@
----
-title: "Xiaowu Dai"
-categories: [Affiliated Researcher]
-description: "Affiliated Researcher"
-image: "/images/people/xiaowu-dai.png"
----
-
-Xiaowu Dai is an Affiliated Researcher at CDAR, currently Assistant Professor in the Department of Statistics at UCLA.

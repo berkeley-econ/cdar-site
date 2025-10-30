@@ -1,7 +1,0 @@
----
-title: "Samim Ghamami"
-categories: ["Affiliated Researcher", "CDAR", "CRMR"]
-description: "Affiliated Researcher"
----
-
-Samim Ghamami is an Affiliated Researcher at CDAR, focusing on financial networks and systemic risk.

@@ -1,8 +1,0 @@
----
-title: "Lisa Goldberg"
-categories: ["Co-Director", "CDAR", "CRMR"]
-description: "Professor of the Graduate School, Department of Economics, UC Berkeley"
-image: "/images/people/lisa-goldberg.png"
----
-
-Lisa Goldberg serves as Co-Director of CDAR and is a Professor of the Graduate School in the Department of Economics at UC Berkeley. Her research focuses on financial risk management, portfolio optimization, and data analytics in finance.

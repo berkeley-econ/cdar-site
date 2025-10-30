@@ -1,8 +1,0 @@
----
-title: "Qing Li"
-categories: [Alumni]
-description: "Board Member (2017-2021)"
-image: "/images/people/qing-li.png"
----
-
-Qing Li was a Board Member of CDAR from 2017 to 2021, currently Associate Dean of the Information School at Southwestern University of Finance and Economics.

@@ -1,8 +1,0 @@
----
-title: "Jeffrey Bohn"
-categories: ["Board Member", "Affiliated Researcher", "CDAR"]
-description: "Board Member and Affiliated Researcher"
-image: "/images/people/jeffrey-bohn.png"
----
-
-Jeffrey Bohn serves as both a Board Member and Affiliated Researcher at CDAR, bringing extensive experience in risk management and financial analytics.

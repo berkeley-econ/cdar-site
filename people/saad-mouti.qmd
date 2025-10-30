@@ -1,8 +1,0 @@
----
-title: "Saad Mouti"
-categories: [Postdoc]
-description: "Postdoc"
-image: "/images/people/saad-mouti.png"
----
-
-Saad Mouti is a Postdoctoral Researcher at CDAR, working on sustainable investing and ESG analytics.

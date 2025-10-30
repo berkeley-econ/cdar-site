@@ -1,8 +1,0 @@
----
-title: "Morten Larsen"
-categories: [Member]
-description: "Member"
-image: "/images/people/morten-larsen.png"
----
-
-Morten Larsen is a Member of CDAR.

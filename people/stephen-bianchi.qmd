@@ -1,8 +1,0 @@
----
-title: "Stephen Bianchi"
-categories: [CRMR Affiliate]
-description: "Affiliated Researcher"
-image: "/images/people/stephen-bianchi.png"
----
-
-Stephen Bianchi is an Affiliated Researcher at CRMR, specializing in financial economics and econometrics.
